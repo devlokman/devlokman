@@ -7,15 +7,16 @@
 - 📫 How to reach me: dev@lokman.at
 
 <h4>My Tech-Stack</h4>
-<p>- Laravel</p>
-<p>- TYPO3</p>
-<p>- PHP/MYSQL</p>
-<p>- Laravel Livewire, Nova, Pint, Dusk, Horizon, Telescope, Forge</p>
-<p>- PHPUnit</p>
-<p>- AlpineJS, jQuery</p>
-<p>- Bootstrap, TailwindCSS</p>
-<p>- Docker, Kubernetes, Jenkins</p>
-<p>- VueJS, ReactJS</p>
-<p>- Algolia</p>
-<p>- Retool</p>
-<p>- Strapi</p>
+- Laravel<br/>
+- TYPO3<br/>
+- PHP/MYSQL<br/>
+- Laravel Livewire, Nova, Pint, Dusk, Horizon, Telescope, Forge<br/>
+- PHPUnit<br/>
+- AlpineJS, jQuery<br/>
+- Bootstrap, TailwindCSS<br/>
+- Docker, Kubernetes, Jenkins<br/>
+- VueJS, ReactJS<br/>
+- Algolia<br/>
+- Retool<br/>
+- Strapi<br/>
+- OXID, Shopware<br/>
