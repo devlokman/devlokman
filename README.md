@@ -9,24 +9,13 @@
 <h4>My Tech-Stack</h4>
 <p>- Laravel</p>
 <p>- TYPO3</p>
-<p>- PHP</p>
-<p>- Laravel Livewire</p>
-<p>- Laravel Nova</p>
-<p>- Laravel Pint</p>
-<p>- Laravel Dusk</p>
-<p>- Laravel Horizon</p>
-<p>- Laravel Telescope</p>
+<p>- PHP/MYSQL</p>
+<p>- Laravel Livewire, Nova, Pint, Dusk, Horizon, Telescope, Forge</p>
 <p>- PHPUnit</p>
-<p>- AlpineJS</p>
-<p>- Bootstrap</p>
-<p>- Jquery</p>
-<p>- TailwindCSS</p>
-<p>- Docker</p>
-<p>- Kubernetes</p>
-<p>- Jenkins</p>
-<p>- Laravel Forge</p>
-<p>- VueJS</p>
-<p>- ReactJS</p>
+<p>- AlpineJS, jQuery</p>
+<p>- Bootstrap, TailwindCSS</p>
+<p>- Docker, Kubernetes, Jenkins</p>
+<p>- VueJS, ReactJS</p>
 <p>- Algolia</p>
 <p>- Retool</p>
 <p>- Strapi</p>
