@@ -1,4 +1,4 @@
-<p align="center">### Hi 👋, I'm Lokman</p>
+<h4 align="center">Hi 👋, I'm Lokman</h4>
 <hr/>
 <h3 align="center">Expert Laravel Developer: More than half of my life i spent with developing</h3>
 
