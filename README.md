@@ -1,8 +1,8 @@
 <h4 align="center">Hi 👋, I'm Lokman</h4>
 <hr/>
 <h3 align="center">Laravel Expert Developer: I've spent the majority of my life engaged in programming and development.</h3>
-- 🔭 I’m currently working on <b>Laravel-Based E-Commerce Project</b><br/>
-- 🌱 I’m currently learning <b>Laravel Lunar</b><br/>
+- 🔭 I’m currently working on <b>AI based Laravel Project</b><br/>
+- 🌱 I’m currently using <b>Zorin OS (Linux Distro)</b><br/>
 - 💬 Ask me about <b>Laravel Framework, TYPO3, Livewire, Bootstrap</b><br/>
 - 📫 How to reach me: dev@lokman.at
 
