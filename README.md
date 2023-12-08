@@ -10,6 +10,7 @@
 - Laravel<br/>
 - TYPO3<br/>
 - PHP/MYSQL<br/>
+- OpenAI
 - Laravel Livewire, Nova, Pint, Dusk, Horizon, Telescope, Forge<br/>
 - PHPUnit<br/>
 - AlpineJS, jQuery<br/>
